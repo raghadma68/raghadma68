@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🌼 Hi, I'm Ragad 🌼
+## 🤍 Hi, I'm Ragad 🤍
 
 Student in Software Engineering  
 Interested in algorithms, Arduino projects, and web development ✨
@@ -8,18 +8,18 @@ Interested in algorithms, Arduino projects, and web development ✨
 ---
 
 ### 🌸 Tech Stack
-Java · Python · C++ · JavaScript  
+Python · C++ · JavaScript · C# · C
 HTML · CSS · React  
 Git · GitHub · VS Code  
 
 ---
 
 ### 🌱 Growing in
-Algorithms · System Design · Frontend  
+Algorithms · Web Development  · Arduino 
 
 ---
 
 💌 raghadmansour43@gmail.com  
-🌼 Thanks for reading! 🌼
+🤍 Thanks for reading! 🤍
 
 </div>
