@@ -1,31 +1,29 @@
-<h2 align="center">Hi, I'm Ragad 🤍</h2>
+<h1 align="center">Ragad Mansour</h1>
 
 <p align="center">
-Software Engineering Student  
-Interested in algorithms, Arduino development, and web technologies.
+Software Engineering Student • Algorithms & Arduino • Web Development  
 </p>
 
 ---
 
-### 🌿 About Me
-- 💻 Passionate about clean code & problem-solving  
-- ✨ Love building small projects that help me grow  
-- 📚 Always learning something new  
+## 🧩 Skills
+- **Languages:** Java • Python • C++ • JavaScript  
+- **Web:** HTML • CSS • React  
+- **Tools:** Git • GitHub • VS Code  
 
 ---
 
-### 🛠 Tech Stack
-**Languages:** Java, Python, C++, JavaScript  
-**Web:** HTML, CSS, React  
-**Tools:** Git, GitHub, VS Code  
+## 🚀 Highlights
+- Love exploring algorithms and problem-solving  
+- Enjoy working with Arduino and small embedded projects  
+- Focused on improving my frontend and system design skills  
 
 ---
 
-### 🌱 Currently Learning
-Algorithms · System Design · Frontend
+## 📬 Contact
+**Email:** raghadmansour43@gmail.com
 
 ---
 
-<p align="center">🤍 Thanks for visiting my profile 🤍</p>
-
+<p align="center">🖤 Always learning. Always improving. 🖤</p>
 
