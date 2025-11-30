@@ -8,7 +8,7 @@ Interested in algorithms, Arduino projects, and web development ✨
 ---
 
 ### 🌸 Tech Stack
-Python · C++ · JavaScript · C# · C
+Python · C++ · JavaScript · C# · C  
 HTML · CSS · React  
 Git · GitHub · VS Code  
 
